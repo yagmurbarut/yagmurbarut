@@ -1,38 +1,26 @@
 <div align="center">
   
-# Hi 👋, I'm Yağmur Barut
+## Hi 👋, I'm Yağmur Barut
 
-### Software Engineering Student | Backend Developer
+**Software Engineering Student | Backend Developer**
 
-<br>
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,nestjs,ts,js,python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,nestjs,ts,js,python,cpp,c,react,html,css,dart,php&perline=15" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,dart,php" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,postman,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma,git,github,azure,postman,nodejs&perline=15" />
 </p>
 
-<br>
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagmurbarut&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurbarut&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yagmurbarut&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurbarut&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
-<br>
-
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yagmurbarut/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
