@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,nestjs,ts,js,python,cpp,c,react,html,css,dart,php&perline=15" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma,git,github,azure,postman,nodejs&perline=15" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,azure,postman,nodejs&perline=15" />
 </p>
 
 ### 📊 GitHub Stats
