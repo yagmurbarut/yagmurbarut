@@ -36,11 +36,4 @@
   <img src="https://raw.githubusercontent.com/yagmurbarut/yagmurbarut/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="600" />
 </p>
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yagmurbarut/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yagmurrbarutt1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 </div>
