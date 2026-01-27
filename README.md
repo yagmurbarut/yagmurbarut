@@ -7,7 +7,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagmurbarut&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurbarut&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
