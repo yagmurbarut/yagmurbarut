@@ -7,10 +7,10 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,nestjs,ts,js,python,cpp,c,react&perline=15" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,nestjs,ts,js,python,cpp,c&perline=15" height="40" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,postman,nodejs,html,css,dart,php&perline=15" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,postman,nodejs,html,css,dart,php,react&perline=15" height="40" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="20"/>
