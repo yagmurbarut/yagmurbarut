@@ -22,7 +22,6 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagmurbarut&show_icons=true&theme=tokyonight)
-https://streak-stats.demolab.com/?user=yagmurbarut&theme=tokyonight
 
 
 <p align="center">
