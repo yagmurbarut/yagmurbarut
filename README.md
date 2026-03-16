@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps" height="20"/>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagmurbarut&show_icons=true&theme=tokyonight)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yagmurbarut/yagmurbarut/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="600" />
