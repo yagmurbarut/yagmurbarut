@@ -2,7 +2,7 @@
   
 ## Hi 👋, I'm Yağmur Barut
 
-**Software Engineering Student | Backend Developer**
+**Software Engineer | Backend Developer**
 
 ### 🛠️ Tech Stack
 
